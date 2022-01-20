@@ -7,7 +7,7 @@ url: https://janaarthanaharri.github.io/janahari.github.io/
 baseurl: /v2
 email: janahari23@outlook.com
 resume: CV.pdf
-# logo: img/logo/j-logo.jpg
+logo: https://janaarthanaharri.github.io/v2/img/logo/j-logo.jpg
 social:
   - title: email
     url: mailto:janahari23@outlook.com

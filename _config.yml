@@ -1,13 +1,13 @@
 # Site settings
-name: Jana
-title: Jana
+name: Jana Palanisamy
+title: Jana Palanisamy
 description: Graduate Student at SJSU
 url: https://janaarthanaharri.github.io/janahari.github.io/
 # baseurl: ''
 baseurl: /v2
 email: janahari23@outlook.com
 resume: CV.pdf
-# logo: https://janaarthanaharri.github.io/janahari.github.io/img/logo/j-logo.jpg
+logo: https://janaarthanaharri.github.io/v2/img/logo/j-logo.jpg
 social:
   - title: email
     url: mailto:janahari23@outlook.com

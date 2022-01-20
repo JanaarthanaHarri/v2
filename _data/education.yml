@@ -1,0 +1,29 @@
+- name: San Jose State University
+  url: https://www.sjsu.edu/
+  time: Jan 2021 - Present
+  degree: Master of Science in Software Engineering
+  coursework:
+    - thing: Artificial Intelligence & Data Engineering
+    - thing: Machine Learning
+    - thing: Data Mining
+    - thing: Enterprise Software Platforms
+    - thing: Computer Network Design
+    - thing: Software Systems Engineering
+
+- name: SRM Institute of Science and Technology
+  url: https://www.srmist.edu.in/
+  time: Aug 2015 - May 2019
+  degree: Bachelor of Technology in Software Engineering
+  coursework:
+    - thing: Data Structures
+    - thing: Operating Systems
+    - thing: Algorithm Design and Analysis
+    - thing: Network Security
+    - thing: Database Management Systems
+    - thing: Digital System Design
+    - thing: Microprocessors and Microcontrollers
+    - thing: Object Oriented Analysis and Design
+    - thing: Internet of Things
+    - thing: Virtual Reality
+    - thing:  Software Architecture and Design
+

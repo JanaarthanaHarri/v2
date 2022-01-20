@@ -1,0 +1,32 @@
+languages:
+  - item: Python
+  - item: JAVA
+  - item: JavaScript
+  - item: C/C++
+  - item: HTML
+  - item: CSS
+
+frameworks:
+  - item: Scilit-learn
+  - item: TensorFlow, Keras
+  - item: Pandas, Numpy
+  - item: Matplotlib, Seaborn
+  - item: Node, React
+  - item: RASA
+
+
+tools:
+  - item: MySQL, PostgreSQL
+  - item: Git & Github
+  - item: MongoDB
+  - item: Postman
+  - item: Anaconda
+  - item: SQLite
+
+cloud:
+  - item: AWS 
+  - item: GCP/Azure
+  - item: Docker
+  - item: Heroku
+  - item: Google Colab
+  - item: Amazon Sagemaker

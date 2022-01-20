@@ -1,0 +1,16 @@
+- name: PowerCo Churn Analysis
+  url: https://github.com/JanaarthanaHarri/PowerCo_Churn_Analysis
+
+  description: BCG GAMMA
+    # - point: Developed a Task Aware CU Frame Partitioning Procedure for video encoders like HEVC
+    # - point: Used lightweight edge-based neural networks that predicts this frame partitioning based on the task at hand to assistthe encoder i.e for region of interest video encoding
+    # - point: Helps save transmission bit-rate and reduces encoding time while allowing learning based analytics to maintain peak performance. Verified on KITTI pedestrian dataset (Inter) and IJB-C face recognition dataset (Intra).
+
+- name: Fund Galaxy
+  description: Final Project
+    # - point: Worked on understanding how video compression affects common computer vision tasks like face recognition and pedestrian detection
+    # - point: Performed experiments on common public datasets like IJB-C, LFW, DMD, KITTI, Caltech etc., to understand howcompression affects scenarios of different illumination, resolution, camera-types (fisheye), camera-streams (RGB vsIR) and skintones
+    # - point: Worked on mitigating the effects of compression such as developing Low-Light enhancement frameworks and taskaware encoders
+
+
+

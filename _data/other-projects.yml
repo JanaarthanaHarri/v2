@@ -1,0 +1,39 @@
+
+- name: PowerCo Churn Analysis
+  url: https://github.com/JanaarthanaHarri/PowerCo_Churn_Analysis
+  code: GitHub
+  description: 
+    - point: Explored more than 3GB of CRM data and built machine learning pipelines to accurately predict customer churn by 73%. 
+        Conducted discount-impact analysis to develop optimal discount strategy, increased annual revenue by $60K
+  used:
+    - thing: Python
+    - thing: Machine Learning
+    - thing: Data Visualization
+    - thing: Feature Engineering
+    - thing: Data Wrangling
+
+- name: NBA Winner and Stats Predictor
+  url: https://github.com/JanaarthanaHarri/NBA-Winner-and-Stats-Prediction
+  code: https://github.com/JanaarthanaHarri/NBA-Winner-and-Stats-Prediction
+  description: 
+    - point: Accomplished training classifiers on binary target data for predicting game winners and which team will finish a game with higher stats. Built XGBoost model and tuned hyperparameters to achieve the highest accuracy of 74% with 14.1% macro average gain. 
+  used:
+    - thing: Python 
+    - thing: Colab
+    - thing: SMOOTEEN
+    - thing: XGBoost
+    - thing: HyperParameter Tuning
+    - thing: Classification
+
+- name: Wacky 1v1
+  url: https://github.com/JanaarthanaHarri/Wacky-1v1
+  code: Github
+  description:
+    - point: A multiplayer turn based shooting game where 2 players try to hit each other with a physics projectile. This idea came about due to the recent EOLing of adobe flash player. Designed and developed different character models, including more complex multipart sprites. Developed dynamic healthbar visual and dynamic pixel elements imitating snowfall.
+  used :
+    - thing: Python
+    - thing: Pygame
+    - thing: VScode
+    - thing: Kanban
+    - thing: Agile Methodologies
+    - thing: Math

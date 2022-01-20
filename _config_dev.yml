@@ -1,0 +1,41 @@
+# Site settings
+name: Jana Palanisamy
+title: Jana Palanisamy
+description: Graduate Stutdent at SJSU
+url: https://janaarthanaharri.github.io/janahari.github.io/
+# baseurl: ''
+baseurl: /janahari.github.io
+email: janahari23@outlook.com
+resume: CV.pdf
+# logo: img/logo/j-logo.jpg
+social:
+  - title: email
+    url: mailto:janahari23@outlook.com
+  - title: github
+    url: https://github.com/JanaarthanaHarri
+  - title: linkedin
+    url: https://www.linkedin.com/in/janaarthana-harri-1754a2205/
+  - title: Kaggle
+    url: https://www.kaggle.com/janaarthanaharri
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

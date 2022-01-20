@@ -1,6 +1,6 @@
 # Personal Website
 
-### Note: Code template taken from [source](https://github.com/bchiang7/bchiang7.github.io)
+### Note: Website template from [source](https://bchiang7.github.io/)
 
 ## Dependencies
 

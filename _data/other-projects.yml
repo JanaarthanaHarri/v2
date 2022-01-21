@@ -3,7 +3,7 @@
   url: https://github.com/JanaarthanaHarri/PowerCo_Churn_Analysis
   code: GitHub
   description: 
-    - point: Explored more than 3GB of CRM data and built machine learning pipelines to accurately predict customer churn by 73%. 
+    - point: Explored more than 3GB of CRM data and built machine learning pipelines to accurately predict customer churn by 73%, starting from data wrangling, feature engineering, model building, and evaluation using python.
         Conducted discount-impact analysis to develop optimal discount strategy, increased annual revenue by $60K
   used:
     - thing: Python

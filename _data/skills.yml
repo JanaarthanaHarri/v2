@@ -28,5 +28,5 @@ cloud:
   - item: GCP/Azure
   - item: Docker
   - item: Heroku
-  - item: Google Colab
+  - item: IBM Watson Studio
   - item: Amazon Sagemaker

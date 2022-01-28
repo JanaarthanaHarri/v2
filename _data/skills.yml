@@ -21,11 +21,11 @@ tools:
   - item: MongoDB
   - item: Postman
   - item: Anaconda
-  - item: SQLite
+  - item: SQLite3
 
 cloud:
   - item: AWS 
-  - item: GCP/Azure
+  - item: GCP
   - item: Docker
   - item: Heroku
   - item: IBM Watson Studio
